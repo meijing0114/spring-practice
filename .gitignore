@@ -1,0 +1,8 @@
+
+springtest/target/*
+springtest/.idea/*
+springtest/springtest.iml
+gs-rest-service-master/*
+gs-rest-service-master/.idea/*
+
+
