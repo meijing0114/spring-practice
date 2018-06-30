@@ -6,3 +6,8 @@ gs-rest-service-master/*
 gs-rest-service-master/.idea/*
 
 
+*.class
+java-practice/.idea/*
+javaoneday/.idea/*
+
+javaoneday/javaoneday.iml
